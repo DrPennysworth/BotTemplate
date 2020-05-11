@@ -1,0 +1,9 @@
+C:\Users\tonym\RiderProjects\BotTemplate\AntsDiscordDataSaver\bin\Debug\netcoreapp3.1\AntsDiscordDataSaver.deps.json
+C:\Users\tonym\RiderProjects\BotTemplate\AntsDiscordDataSaver\bin\Debug\netcoreapp3.1\AntsDiscordDataSaver.dll
+C:\Users\tonym\RiderProjects\BotTemplate\AntsDiscordDataSaver\bin\Debug\netcoreapp3.1\AntsDiscordDataSaver.pdb
+C:\Users\tonym\RiderProjects\BotTemplate\AntsDiscordDataSaver\obj\Debug\netcoreapp3.1\AntsDiscordDataSaver.csprojAssemblyReference.cache
+C:\Users\tonym\RiderProjects\BotTemplate\AntsDiscordDataSaver\obj\Debug\netcoreapp3.1\AntsDiscordDataSaver.csproj.CoreCompileInputs.cache
+C:\Users\tonym\RiderProjects\BotTemplate\AntsDiscordDataSaver\obj\Debug\netcoreapp3.1\AntsDiscordDataSaver.AssemblyInfoInputs.cache
+C:\Users\tonym\RiderProjects\BotTemplate\AntsDiscordDataSaver\obj\Debug\netcoreapp3.1\AntsDiscordDataSaver.AssemblyInfo.cs
+C:\Users\tonym\RiderProjects\BotTemplate\AntsDiscordDataSaver\obj\Debug\netcoreapp3.1\AntsDiscordDataSaver.dll
+C:\Users\tonym\RiderProjects\BotTemplate\AntsDiscordDataSaver\obj\Debug\netcoreapp3.1\AntsDiscordDataSaver.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Bcjz8+OQBt25pjAql1+TCiRXW+G2rDlhcdHIGeOOqvyhbKUMJ5ju8CMbI83Nue2JxZxDhZM44nHABbIAanzTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tonym\\RiderProjects\\BotTemplate\\AntsDiscordDataSaver\\AntsDiscordDataSaver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tonym\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
